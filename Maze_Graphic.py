@@ -111,3 +111,4 @@ cost_label = tk.Label(root, text="", font=("Arial", 12))
 cost_label.grid(row=6, column=0, columnspan=5, pady=5)
 
 root.mainloop()
+# /////////test/////
